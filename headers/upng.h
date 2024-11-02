@@ -1,7 +1,7 @@
 #ifndef UPNG_H
 #define UPNG_H
 /**
-* uPNG -- derived from LodePNG version 20100808
+* uPNG --
 *
 * Copyright (c) 
 *
@@ -78,4 +78,4 @@ upng_format	upng_get_format(const upng_t *upng);
 const unsigned char *upng_get_buffer(const upng_t *upng);
 unsigned int upng_get_size(const upng_t *upng);
 
-#endif /*defined(UPNG_H)*/
+#endif /*defined(UPNG)*/
