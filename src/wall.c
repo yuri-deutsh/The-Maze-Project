@@ -18,7 +18,7 @@ void changeColorIntensity(color_t *color, float factor)
 }
 
 /**
- * renderFloor - render floor projection
+ * renderFloor -- render floor projection
  *
  * @WallBottomPixel: wall bottom pixel
  * @texelColor: texture color for current pixel
