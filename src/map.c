@@ -17,7 +17,7 @@ static const int map[MAP_NUM_ROWS][MAP_NUM_COLS] = {
 };
 
 /**
- * DetectCollision - Checks if there could be a collision
+ * DetectCollision -- Checks if there could be a collision
  * with the wall in the next player advance
  * @x: next x coordinate
  * @y: next y coordinate
