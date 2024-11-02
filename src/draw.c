@@ -19,7 +19,7 @@ void drawRect(int x, int y, int width, int height, color_t color)
 }
 
 /**
- * drawLine - draw a line
+ * drawLine -- draw a line
  * @x0: x coordinate init
  * @y0: y coordinate init
  * @x1: x coordinate init
