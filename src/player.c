@@ -2,7 +2,7 @@
 
 
 /**
- * movePlayer - set the next position of the player
+ * movePlayer -- set the next position of the player
  * @DeltaTime: time elapsed since the last frame
 */
 
